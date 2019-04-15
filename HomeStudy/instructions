@@ -1,0 +1,6 @@
+For a file to be executable you have to write first #!/bin/bash
+and then in the terminal make it executable by 
+
+"$chmod +x <filename"
+
+after you are done you may press "$ ./<filename>" in order to execute the file 
